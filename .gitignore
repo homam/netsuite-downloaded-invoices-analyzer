@@ -1,0 +1,14 @@
+.DS_Store
+*.csv
+dist/
+_all-data.json
+_Invoice.json
+_Purchase Order.json
+_Sales Order.json
+_Supplier Invoice.json
+invoices-all.json
+invoices-processed.json
+invoices-raw.json
+invoices.json
+sigma-revenues.json
+node_modules/
