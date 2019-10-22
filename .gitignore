@@ -12,3 +12,4 @@ invoices-raw.json
 invoices.json
 sigma-revenues.json
 node_modules/
+_*.json*
